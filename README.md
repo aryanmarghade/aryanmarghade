@@ -1,16 +1,14 @@
 # 👨‍💻 Aryan Marghade | SIT Nagpur '28
 ### 🛰️ Networking Engineer | 🛡️ Security Enthusiast | 🐧 OS Builder
 
----
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20understand%20a%20system,%20you%20must%20build%20it." />
 </div>
 
 ---
 
 ### 💫 About Me
-I'm a **B.Tech First Year Student @ Symbiosis Institute of Technology, Nagpur**. I don't just use tools; I prefer building them from the ground up to understand the "Hard Way" of engineering.
+I'm a **B.Tech First Year Student @ Symbiosis Institute of Technology, Nagpur**. I specialize in low-level systems and network architecture. I believe in the "Self-Made" philosophy—building every tool from scratch to master the engineering behind it.
 
 - 🔭 **Project Building:** Currently developing a **Custom CLI in C** for system task automation.
 - 📡 **Networking Lab:** Deep diving into **Socket Programming**, TCP/IP, and Packet Analysis.
@@ -26,16 +24,17 @@ I'm a **B.Tech First Year Student @ Symbiosis Institute of Technology, Nagpur**.
 
 ---
 
-### 🏗️ Projects on my Workbench
-| Project | Description | Tech |
+### 🏗️ Projects in the Lab
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Jarvis AI** | Mobile-ready system automation assistant. | `Python`, `Kivy` |
-| **Custom CLI** | A C-based DSL for managing system tasks. | `C`, `Make` |
-| **Campus Portal** | Full-stack Placement Management System. | `Node.js`, `Mongoose` |
+| **🥘 Restaurant QR System** | Digital menu & ordering system with QR scan integration. | `Node.js`, `React`, `MongoDB` |
+| **🤖 Jarvis AI** | Mobile-ready system automation assistant via Kivy. | `Python`, `Kivy`, `Bash` |
+| **🐚 Custom C-CLI** | A domain-specific language/interface for system tasks. | `C`, `Linux API` |
+| **🎓 Campus Placement** | Full-stack portal for managing student placement drives. | `MERN Stack` |
 
 ---
 
-### 📊 System Activity
+### 📊 System Activity & Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanmarghade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmarghade&theme=tokyonight&hide_border=true" width="48%" />
@@ -60,5 +59,5 @@ I'm a **B.Tech First Year Student @ Symbiosis Institute of Technology, Nagpur**.
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanmarghade&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=aryanmarghade&color=7aa2f7&style=flat-square&label=SYSTEM+ACCESS+COUNT" />
 </div>
