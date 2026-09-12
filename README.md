@@ -129,6 +129,7 @@ A Python-based assistant project designed for automation and interaction.
 ---
 
 ## 🎯 Currently Learning
+Consistency turns small commits into big achievements
 
 ```text
 HTML & CSS       ████████████████████
