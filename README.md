@@ -31,8 +31,6 @@ Digital restaurant menu and ordering system accessed via QR code.
 
 **Stack:** React · JavaScript · HTML · CSS
 
-> These three are currently private. Once any of them are public, add a repo link (and live link if deployed) under the relevant entry.
-
 ---
 
 ## GitHub stats
