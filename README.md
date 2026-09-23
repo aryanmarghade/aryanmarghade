@@ -40,11 +40,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 **[Patient Experience & Healthcare Feedback](#)** | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase |
+| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)** | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase |
 | 🎓 **[Student Performance Platform](#)** | Web platform for tracking student performance, assessments, and academic analytics. | React · JavaScript · PostgreSQL |
-| 🥘 **[Restaurant QR Menu System](#)** | Digital restaurant menu and ordering system accessed via QR code. | React · JavaScript · HTML · CSS |
+| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code. | React · JavaScript · HTML · CSS |
 
-> 💡 Replace the `#` links above with the actual GitHub repo URLs for each project so recruiters can click straight through.
 
 ---
 
