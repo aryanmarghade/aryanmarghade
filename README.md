@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Marghade</h1>
-<h3 align="center">B.Tech CSE Student @ Symbiosis Institute of Technology, Nagpur (Class of 2029)</h3>
+<h3 align="center">B.Tech CSE Student @ Symbiosis Institute of Technology, Nagpur.</h3>
 
 <p align="center">
   I build full-stack web apps with React and PostgreSQL, and I'm currently deepening my SQL and backend engineering skills.
