@@ -41,12 +41,12 @@
 
 ## 🛠️ Featured Projects
 
-| Project                                                                                             | Description                                                                                                                     | Stack                           |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)**         | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface.                 | React · JavaScript · Firebase   |
-| 🎓 **[Student Performance Platform](https://github.com/aryanmarghade/student)**                     | Web platform for tracking student performance, assessments, and academic analytics.                                             | React · JavaScript · PostgreSQL |
-| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private**                          | Backend and server-focused project for building and experimenting with APIs, server-side development, and database integration. | Python · Backend · PostgreSQL   |
-| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code.                                                               | React · JavaScript · HTML · CSS |
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)** | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase |
+| 🎓 **[Student Performance Platform](https://github.com/aryanmarghade/student)** | Web platform for tracking student performance, assessments, and academic analytics. | React · JavaScript · PostgreSQL |
+| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private** | Backend and server-focused project for building and experimenting with APIs, server-side development, and database integration. | Python · Backend · PostgreSQL |
+| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code. | React · JavaScript · HTML · CSS |
 
 ---
 
@@ -74,6 +74,10 @@
     src="https://streak-stats.demolab.com/?user=aryanmarghade&theme=tokyonight&hide_border=true"
     alt="Aryan's GitHub Streak"
   />
+</p>
+
+<p align="center">
+  <b>🏆 Longest streak: 13 days</b>
 </p>
 
 ---
