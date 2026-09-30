@@ -12,7 +12,7 @@
   <a href="https://aryanmarghade.github.io/Profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:aryanmarghadesit@gmail.com">
+  <a href="mailto:aryanmarghade@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -42,7 +42,7 @@
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)**         | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase     |
 | 🎓 **[Student Performance Platform](#)**                                                            | Web platform for tracking student performance, assessments, and academic analytics.                             | React · JavaScript · PostgreSQL   |
-| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private**                          | Backend/server-focused project for experimenting with APIs, server-side development, and database integration.  | JavaScript · Backend · PostgreSQL |
+| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private**                          | Backend/server-focused project for experimenting with APIs, server-side development, and database integration.  | JavaScript · Backend · PostgreSQL  · Python |
 | 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code.                                               | React · JavaScript · HTML · CSS   |
 
 ---
