@@ -12,10 +12,12 @@
   <a href="https://www.linkedin.com/in/aryan-marghade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://aryanmarghade.github.io/Profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:aryanmarghade@gmail.com">
+
+  <a href="mailto:aryanmarghadesit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -43,78 +45,121 @@
 
 <p align="center">
 
-  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Aryan--Marghade-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-aryan6273516-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
   </a>
 
   <a href="https://www.hackerrank.com/profile/aryanmarghadesit" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-aryanmarghadesit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/HackerRank-aryanmarghadesit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
   </a>
 
 </p>
 
-### 🟠 LeetCode
+---
+
+## 🟠 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Aryan-Marghade&sections=profile,solved,streak,skills,languages,heatmap&theme=tokyonight&hide_border=true" />
+  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/aryan6273516?theme=dark&font=Baloo&ext=heatmap"
+      alt="Aryan Marghade LeetCode Stats"
+    />
   </a>
 </p>
 
-### 🟢 HackerRank
+<p align="center">
+  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+    🔗 View my LeetCode Profile
+  </a>
+</p>
+
+---
+
+## 🟢 HackerRank
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/aryanmarghadesit" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Full%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/HackerRank-aryanmarghadesit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank Profile"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>
-    View my HackerRank profile for current badges, stars, skills and challenge progress.
-  </i>
+  <a href="https://www.hackerrank.com/profile/aryanmarghadesit" target="_blank">
+    🔗 View my HackerRank Profile
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Featured Projects
 
-| Project                                                                                             | Description                                                                                                     | Stack                                      |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)**         | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase              |
-| 🎓 **Student Performance Platform**                                                                 | Web platform for tracking student performance, assessments, and academic analytics.                             | React · JavaScript · PostgreSQL            |
-| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private**                          | Backend/server-focused project for experimenting with APIs, server-side development, and database integration.  | JavaScript · Backend · PostgreSQL · Python |
-| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code.                                               | React · JavaScript · HTML · CSS            |
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)** | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase |
+| 🎓 **Student Performance Platform** | Web platform for tracking student performance, assessments, and academic analytics. | React · JavaScript · PostgreSQL |
+| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private** | Backend/server-focused project for experimenting with APIs, server-side development, and database integration. | JavaScript · Backend · PostgreSQL · Python |
+| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code. | React · JavaScript · HTML · CSS |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanmarghade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=aryanmarghade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmarghade&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmarghade&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanmarghade&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmarghade&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 📈 Coding Activity
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Aryan-Marghade?theme=dark&font=Baloo&ext=heatmap" />
+  <img
+    src="https://streak-stats.demolab.com/?user=aryanmarghade&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aryanmarghade&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📈 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/aryan6273516?theme=dark&font=Baloo&ext=heatmap"
+      alt="LeetCode Activity"
+    />
   </a>
 </p>
 
