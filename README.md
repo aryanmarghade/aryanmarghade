@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="mailto:aryanmarghadesit@gmail.com">
+  <a href="mailto:aryanmarghade@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-📚 **Currently learning:** Backend fundamentals & advanced SQL — indexing, transactions, and query optimization.
+📚 **Currently learning:** SQL for backend development — queries, joins, indexing, transactions, and query optimization.
 
 ---
 
@@ -45,9 +45,9 @@
 
 <p align="center">
 
-  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LeetCode-aryan6273516-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      src="https://img.shields.io/badge/LeetCode-Aryan--Marghade-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
       alt="LeetCode"
     />
   </a>
@@ -66,17 +66,21 @@
 ## 🟠 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
+  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
     <img
-      src="https://leetcard.jacoblin.cool/aryan6273516?theme=dark&font=Baloo&ext=heatmap"
-      alt="Aryan Marghade LeetCode Stats"
+      src="https://leetcard.jacoblin.cool/Aryan-Marghade?theme=dark&font=Baloo"
+      alt="LeetCode Stats"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
-    🔗 View my LeetCode Profile
+  🔥 <b>Current LeetCode Streak</b>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Aryan-Marghade/" target="_blank">
+    View my LeetCode Profile →
   </a>
 </p>
 
@@ -88,14 +92,14 @@
   <a href="https://www.hackerrank.com/profile/aryanmarghadesit" target="_blank">
     <img
       src="https://img.shields.io/badge/HackerRank-aryanmarghadesit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
-      alt="HackerRank Profile"
+      alt="HackerRank"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/aryanmarghadesit" target="_blank">
-    🔗 View my HackerRank Profile
+    View my HackerRank Profile →
   </a>
 </p>
 
@@ -103,65 +107,12 @@
 
 ## 🛠️ Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)** | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase |
-| 🎓 **Student Performance Platform** | Web platform for tracking student performance, assessments, and academic analytics. | React · JavaScript · PostgreSQL |
-| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private** | Backend/server-focused project for experimenting with APIs, server-side development, and database integration. | JavaScript · Backend · PostgreSQL · Python |
-| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code. | React · JavaScript · HTML · CSS |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=aryanmarghade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmarghade&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=aryanmarghade&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aryanmarghade&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 LeetCode Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/aryan6273516/" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/aryan6273516?theme=dark&font=Baloo&ext=heatmap"
-      alt="LeetCode Activity"
-    />
-  </a>
-</p>
+| Project                                                                                             | Description                                                                                                     | Stack                                      |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 🏥 **[Patient Experience & Healthcare Feedback](https://github.com/aryanmarghade/student)**         | Feedback and analytics platform for collecting patient and staff feedback through an interactive web interface. | React · JavaScript · Firebase              |
+| 🎓 **Student Performance Platform**                                                                 | Web platform for tracking student performance, assessments, and academic analytics.                             | React · JavaScript · PostgreSQL            |
+| 🖥️ **[ServerX](https://github.com/aryanmarghade/ServerX)** 🔒 **Private**                          | Backend/server-focused project for experimenting with APIs, server-side development, and database integration.  | JavaScript · Backend · PostgreSQL · Python |
+| 🥘 **[Restaurant QR Menu System](https://github.com/aryanmarghade/restaurant-menu-card-qr-system)** | Digital restaurant menu and ordering system accessed via QR code.                                               | React · JavaScript · HTML · CSS            |
 
 ---
 
